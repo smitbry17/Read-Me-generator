@@ -42,7 +42,7 @@ This program allows you to generate a read me file based off of user inputs.
 
   ## Example video
 
-  ![Example Vod](../Assets/Video/READ%20ME%20GENERATOR%20VOD.mp4)
+  ![Youtube Vod](https://youtu.be/2mJWJY67Iw4)
 
   ## Tests
 
